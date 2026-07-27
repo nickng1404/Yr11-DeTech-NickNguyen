@@ -139,18 +139,12 @@ nav a.active {
 
 .site-footer {
     background: linear-gradient(to bottom, #ff0000, #7a0000);
-
     color: #E8E8E8;
-
     text-align: center;
-
     padding: 12px 0;
-
     font-family: Arial, sans-serif;
     font-size: 18px;
     font-weight: bold;
-
     width: 100%;
-
     margin-top: 40px;
 }
